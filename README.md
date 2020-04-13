@@ -1,0 +1,2 @@
+# bookstore
+A Go Project
